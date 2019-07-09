@@ -64,3 +64,18 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.navigation{
+	padding-top:40px
+}
+
+
+.navigation a {
+	color:grey;
+	text-decoration:  none;
+	padding-left: 6%;
+
+}
+.navigation img{
+	float:right;
+	padding-right:10%;
+}
