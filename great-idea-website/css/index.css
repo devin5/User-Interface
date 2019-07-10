@@ -72,7 +72,9 @@ nav{
 }
 
 nav a{
-	padding-left:20px;
+	padding-left:100px;
+	color:grey ;
+	text-decoration: none;
 }
 
 
@@ -87,6 +89,7 @@ nav a{
 .halves{
 	width:47%;
 	display:inline-block;
+	padding-bottom:40px;
 }
 
 .headertext{
@@ -101,12 +104,38 @@ nav a{
 .third{
 	display:inline-block;
 	width:31%;
+	padding-top:40px;
 
 }
 footer p {
 	text-align:center;
 }
 
+.headertext{
+	padding-left:100px;
+	padding-top: 100px;
 
+}
 
-/* this is my footer*/
+.header h1{
+	font-size:60px
+
+}
+.picture{
+	padding-top:75px;
+	padding-left: 150px;
+
+}
+.logo{
+	padding-top:30px;
+	padding-left:100px;
+}
+.image{
+	width:400px;
+}
+button{
+	margin-left:70px
+}
+footer{
+	margin-top: 50px;
+}
