@@ -65,31 +65,48 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
-.container{
-	width:880px;
-	margin: 0 auto;
-}
+/* this is my header*/
 
-nav a {
-	color:grey;
-	text-decoration:  none;
-	margin-right: 40px;
-  }
-
-.header h1{
-	
-	margin-left:5%;
-	font-size: 50px;
-}
-
-
-nav {
+nav{
 	display:inline-block;
 }
-.logo{
-	margin-top: 30px;
+
+nav a{
+	padding-left:20px;
 }
-.header, .headertext{
+
+
+
+
+/* this is my main*/
+
+.whole{
+	width:100%;
 	display:inline-block;
-	vertical-align: top;
 }
+.halves{
+	width:47%;
+	display:inline-block;
+}
+
+.headertext{
+	vertical-align:top;
+
+}
+
+.middle-img{
+	width:100%;
+}
+
+.third{
+	display:inline-block;
+	width:31%;
+
+}
+footer p {
+	text-align:center;
+}
+
+
+
+/* this is my footer*/
